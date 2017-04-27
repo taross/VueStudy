@@ -7,3 +7,10 @@
 
 // Bootstrap
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+#app {
+  position: relative;
+  width: 100vw;
+  height:70vh;
+  top:30vh;
+}
