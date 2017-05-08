@@ -15,9 +15,12 @@
         </script>
     </head>
     <body>
-        <div id="app">
+        <main id="app">
             <example></example>
-        </div>
+        </main>
+        <nav id="nav">
+            
+        </nav>>
     </body>
 
     <script src="js/app.js"></script>
