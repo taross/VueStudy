@@ -20,7 +20,7 @@
 </main>
 <nav id="nav">
 
-</nav>>
+</nav>
 </body>
 
 <script src="js/app.js"></script>
